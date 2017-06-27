@@ -1,0 +1,43 @@
+#main {
+    background: grey;
+    width: 900px;
+    height: 2000px;
+}
+
+
+.main_style {
+    border: 1px solid black;
+    margin-top: 10px;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.sub_style {
+    display: inline-block;
+    vertical-align: top;
+    height: 180px;
+    margin: 10px auto;
+    width: 200px;
+    background: green;
+}
+
+#to_show, #to_slideUp, #to_fadeOut {
+    display: none;
+}
+
+#to_hide, #to_slideDown, #to_fadeIn {
+    margin-top: 50px;;
+    height: 300px;
+}
+
+.beer_friend {
+    background-color: yellow;
+}
+
+.shrink {
+    height: 10px;
+    display: inline-block;
+    width: 50px;
+    background: yellow;
+}
